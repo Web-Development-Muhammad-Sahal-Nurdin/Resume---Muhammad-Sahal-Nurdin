@@ -12,6 +12,10 @@ hr {
     
 }
 
+.img-src {
+    width: 1.5%;
+}
+
 .date {
    float: right;
 }
