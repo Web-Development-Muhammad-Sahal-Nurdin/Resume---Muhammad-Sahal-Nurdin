@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.WIDTH {
+#WIDTH {
     padding: 1% 3% ;
     
 }
@@ -13,7 +13,7 @@
     
 }
 
-.EDUCATION {
+#EDUCATION {
     text-align: left;
 }
 
